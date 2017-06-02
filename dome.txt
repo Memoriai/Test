@@ -1,4 +1,4 @@
-﻿hello Git!
+hello Git!
  
 这是在浏览器上更改的内容！
 
